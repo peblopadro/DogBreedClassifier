@@ -39,3 +39,5 @@ We break the notebook into separate steps. Feel free to use the links below to n
 * Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
 * Step 6: Write your Algorithm
 * Step 7: Test Your Algorithm
+
+[The blog accompanying this project is @Medium:](https://medium.com/@pedropablom/dog-breed-classification-model-using-ai-b1bd538903d5)
