@@ -21,7 +21,7 @@ The rubric contains optional "Stand Out Suggestions" for enhancing the project b
 
 In this notebook, you will make the first steps towards developing an algorithm that could be used as part of a mobile or web app. At the end of this project, your code will accept any user-supplied image as input. If a dog is detected in the image, it will provide an estimate of the dog's breed. If a human is detected, it will provide an estimate of the dog breed that is most resembling. The image below displays potential sample output of your finished project (... but we expect that each student's algorithm will behave differently!).
 
-![Sample Dog Output](https://viewooizm3ck72.udacity-student-workspaces.com/files/dog-project/images/sample_dog_output.png)
+![Sample Dog Output](images/sample_dog_output.png)
 
 
 **Sample Dog Output**
